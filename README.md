@@ -1,4 +1,4 @@
-### Hello friends! 👋	👩🏾‍💻
+### Hello friends! 👋	
 
 🔭 I’m currently working as a Senior Data Scientist at TCS.                                                     
 
