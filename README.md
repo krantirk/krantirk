@@ -1,6 +1,6 @@
 ### Hello friends! 👋	
 
-🔭 I’m currently working as a Senior Data Scientist at TCS.                                                     
+🔭 I’m currently working as a Senior Data Scientist .                                                   
 
 🌱 I’m currently working on  how to build deep learning models!
 
