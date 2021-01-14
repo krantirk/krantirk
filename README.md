@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedelashri" alt="mohamedelashri" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krantirk" alt="krantirk" /> </p>
 
-I’m a particle physics graduate student at university of cinccinati, I'm doing resarch as part of NOvA experiment at Fermilab
+I am Data Scientist and like Quantum Computing and Deep Learning
 
 <p align="center">
-  <a href="https://melashri.net/"><img src="https://img.icons8.com/color/96/000000/internet.png" height="16"/>Personal Website</a> •
-  <a href="https://twitter.com/MIBElashri"><img src="https://img.icons8.com/color/96/000000/twitter-circled.png" height="16"/>Twitter</a> •
+  <a href="https://krantirk.net/"><img src="https://img.icons8.com/color/96/000000/internet.png" height="16"/>Personal Website</a> •
+  <a href="https://twitter.com/krantirk2020"><img src="https://img.icons8.com/color/96/000000/twitter-circled.png" height="16"/>Twitter</a> •
   <a href="https://www.linkedin.com/in/krantirk/"><img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="16"/>LinkedIn</a> •
   <a href="mailto:jagannathrk2020@gmail.com"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a>
 </p>
